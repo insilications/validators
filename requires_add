@@ -5,3 +5,4 @@ pyparsing
 six
 sortedcontainers
 zipp
+decorator

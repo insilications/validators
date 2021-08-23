@@ -1,5 +1,5 @@
-PKG_NAME := fastnumbers
-URL = https://files.pythonhosted.org/packages/c9/8c/eb150c91beabdf4ac44d1aec8237709ca1593c615f6cd677914d4c3a2bdb/fastnumbers-3.1.0.tar.gz
+PKG_NAME := validators
+URL = https://files.pythonhosted.org/packages/33/1a/4e4c12982b093796c1ceaff49cbc5998fb3a7866da755f8e7a1a40b8fda4/validators-0.18.2.tar.gz
 ARCHIVES = 
 ARCHIVES_GIT = 
 
