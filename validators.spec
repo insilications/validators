@@ -5,7 +5,7 @@
 %define keepstatic 1
 Name     : validators
 Version  : 0.18.2
-Release  : 302
+Release  : 303
 URL      : https://files.pythonhosted.org/packages/33/1a/4e4c12982b093796c1ceaff49cbc5998fb3a7866da755f8e7a1a40b8fda4/validators-0.18.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/33/1a/4e4c12982b093796c1ceaff49cbc5998fb3a7866da755f8e7a1a40b8fda4/validators-0.18.2.tar.gz
 Summary  : Python Data Validation for Humans™.
@@ -74,7 +74,7 @@ unset https_proxy
 unset no_proxy
 export SSL_CERT_FILE=/var/cache/ca-certs/anchors/ca-certificates.crt
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1629729291
+export SOURCE_DATE_EPOCH=1629729395
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
